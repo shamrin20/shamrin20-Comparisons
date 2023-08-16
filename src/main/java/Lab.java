@@ -14,8 +14,8 @@
  * lab, this expression can be written on a single line, as a boolean expression can be resolved instantly just
  * like a math equation. For instance, the solution to 'isEqual' would be the single line return a==b;
  * 
- * You'll need to know more operators to complete the remaining parts of the lab. You can read about all the 
- * boolean comparison operators here: https://www.oreilly.com/library/view/java-for-dummies/9781118239742/a17.html
+ * You'll need to know more operators to complete the remaining parts of the lab. You can find resources online
+ * by searching for keywords like: java comparison operators.
  */
 public class Lab {
     /**
